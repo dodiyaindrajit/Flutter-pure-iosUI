@@ -1,4 +1,4 @@
-# My_Shop
+# Pure IOS
 
 Plantapp Is Made with ❤ in flutter.
 
